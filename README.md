@@ -18,5 +18,7 @@ Start Hacking Around
 ![Screen Capture of eSewa Working](./.github/screen.gif?raw=true "Screen Capture")
 
 ### Note:
-Do open pull request for further improvement. Thank you.
+I'm not a regular Android developer so let's not go through the entire code 😂😂😂  
+Do open **pull request** for further improvement. 
+Thank you 😎
   
